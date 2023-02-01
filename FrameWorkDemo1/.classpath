@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Jars/selenium-server-4.7.2.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Jars/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="Jars/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="Jars/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="Jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="Jars/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="Jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="Jars/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="poi auxilary/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
